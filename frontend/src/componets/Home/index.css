@@ -1,0 +1,137 @@
+.myImg {
+    width: 50px;
+}
+
+tr {
+    border: 1 px solid rgb(182, 160, 160);
+
+}
+
+td {
+    border: 1 px solid gray;
+    font-size: 12px;
+    text-wrap: wrap;
+    text-align: center;
+}
+
+tbody {
+    border: 1 px solid gray;
+}
+
+.myHeading {
+    color: red;
+}
+
+.dataTable1 {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    justify-content: center;
+
+
+}
+
+#searchInput {
+    height: 25px;
+    width: 48%;
+    border: 2 px solid gray;
+    border-radius: 10px;
+    margin-left: 8px;
+}
+
+.searchButto {
+    background-color: rgb(81, 81, 134);
+    color: azure;
+    border: none;
+    border-radius: 60px;
+    width: 100px;
+    height: 30px;
+    margin-left: 4px;
+}
+
+#pieChartContainer {
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+
+}
+
+
+label {
+    font-size: 20px;
+    font-family: 'Gill Sans', ;
+    font-weight: 500;
+}
+
+select {
+    height: 24px;
+}
+
+option {
+    font-weight: 200;
+}
+
+.dataTable {
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+
+}
+
+table,
+th,
+td {
+    border: 3px solid rgba(204, 128, 14, 0.968);
+    border-collapse: collapse;
+    border-radius: 10px;
+
+
+
+}
+
+.dataTable4 {
+
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.sContainer {
+    background-color: rgb(133, 133, 170);
+    padding: 40px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+
+.mainHe {
+    text-align: center;
+}
+
+.disignStyle {
+    background-color: rgb(181, 164, 16);
+    width: 40%;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+    border-radius: 10px;
+
+}
